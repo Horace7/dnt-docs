@@ -14,7 +14,7 @@ import 'package:dnt_app/widgets/index.dart' show MyAppBar, AppBarBackType;
 Widget build(BuildContext context) {
   return MyScaffold(
     appBar: MyAppBar(
-        title: Text('123'),
+        title: Text('Title'),
         elevation: 0,
         leadingType: AppBarBackType.None,
     ),
