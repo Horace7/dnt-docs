@@ -1,8 +1,10 @@
 # DNT 组件库
 
+[在线文档](http://shihaoran.top/dnt-docs)
+
 > 内部组件库文档, 包含App端和Web端两套
 >
-> App技术栈为Flutter, Web技术栈为Vue
+> App技术栈为Flutter+Material, Web技术栈为Vue+ElementUI
 
 **App组件库 >>**
 
