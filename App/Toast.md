@@ -1,8 +1,8 @@
 # MyToast
 
-> 基于OkToast的二次封装
+> 常用于主动操作后的反馈提示。
 
-常用于主动操作后的反馈提示。
+*基于OkToast的二次封装*
 
 <image src='https://raw.githubusercontent.com/CccFans/images/master/img/20181207161742.png' width=400/>
 
