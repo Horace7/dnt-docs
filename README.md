@@ -22,7 +22,7 @@
 - [ ] `ImagePreview 图片/视频预览`
 - [ ] `NoDataView 无数据展示时的视图`
 - [ ] `Dialog 自定义弹窗`
-- [ ] `Avatar 头像展示`
+- [x] `Avatar 头像展示`
 - [ ] `DatePicker 日期选择器`
 - [ ] `ImagePreview 图片/视频预览`
 
