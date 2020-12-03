@@ -1,4 +1,4 @@
-# MyAppBar
+# AppBar
 
 > **一个基础的、通用的页面Appbar Widget**
 
