@@ -7,7 +7,7 @@
 ```dart
 import 'package:dnt_app/widgets/index.dart' show ImagePreview;
 
-ImagePreview.showPreview(
+ImagePreview.show(
   context,
   imagesList, // 需要预览的图片列表
   currentIndex, // 展示图片的index
