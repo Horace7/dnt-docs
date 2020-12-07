@@ -21,7 +21,7 @@
 - [ ] `ListView 上拉加载下拉刷新`
 - [ ] `VideoPlayer 视频播放器`
 - [ ] `Field Input组件`
-- [ ] `ImagePreview 图片/视频预览`
+- [x] `ImagePreview 图片/视频预览`
 - [ ] `NoDataView 无数据展示时的视图`
 - [ ] `Dialog 自定义弹窗`
 - [x] `Avatar 头像展示`
