@@ -15,7 +15,10 @@ dependencies:
 
 #### 代码中使用
 ```dart
-import 'package:dnt_app/widgets/index.dart' show FButton;
+import 'package:dnt_app/widgets/index.dart'
+  show
+    FButton,
+    FCorner; //需要单独配置圆角时引入 
 
 FButton(
   widget: 100,
