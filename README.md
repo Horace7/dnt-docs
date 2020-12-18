@@ -26,7 +26,7 @@
 - [ ] `Dialog 自定义弹窗`
 - [x] `Avatar 头像展示`
 - [ ] `DatePicker 日期选择器`
-- [ ] `ImagePreview 图片/视频预览`
+- [ ] `BottomSheet 底部弹出框选择器`
 
 **Web组件库 >>**
 
