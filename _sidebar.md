@@ -7,5 +7,7 @@
   * [- Avatar头像组件](App/Avatar.md)
   * [- ImagePreview图片预览](App/ImagePreview.md)
   * [- Field输入框组件](App/Field.md)
+  * [- Card组件](App/Card.md)
+  * [- FuturePage组件](App/FuturePage.md)
 * [Web端](Web/)
   * [- Button按钮](Web/Button.md) 
