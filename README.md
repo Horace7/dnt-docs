@@ -12,7 +12,7 @@
 全局安装 [docsify-cli](https://docsify.js.org/#/zh-cn/quickstart) 工具
 
 ```
-docsify serve docs
+docsify serve
 ```
 
 ## **App组件库 >>**
